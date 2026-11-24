@@ -1,0 +1,7 @@
+Go to Tableau Dashboard:
+https://public.tableau.com/views/KarirNexMart-PerformaPenjualan2025/DashboardofKarirNexMartPerformaPenjualan2025Tugas?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+OR
+https://tinyurl.com/public-tableau-com-Sales2025
+
+Note:
+Status as "viewer only" by those who receive this link.
